@@ -1,5 +1,5 @@
 body {
-  background-image: url(/benjaminh-pub/cafe-remix/bg-image.jpg);
+  background-image: url("bg-image.jpg");
   font-family: sans-serif;
   padding: 20px;
 }
